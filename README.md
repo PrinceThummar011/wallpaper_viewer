@@ -23,18 +23,15 @@ Install Pillow using pip:
 pip install pillow
 ```
 
-##▶️ How to Run
+## ▶️ How to Run
 
-    Clone this repository or download the code.
+Clone this repository or download the code.
+Make sure there's a wallpapers folder in the same directory as the script.
+Place your image files in the wallpapers folder.
+Run the Python script:
 
-    Make sure there's a wallpapers folder in the same directory as the script.
+    python wallpaper_viewer.py
 
-    Place your image files in the wallpapers folder.
-
-    Run the Python script:
-
-python wallpaper_viewer.py
-
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 Developed by Prince Thummar
